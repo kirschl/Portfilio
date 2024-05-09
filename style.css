@@ -280,3 +280,10 @@ table{
     box-sizing: border-box;
 }
 tr:hover {background-color: #D6EEEE;}
+table, th, td {
+    border: 1px solid black;
+}
+.aboutImg{
+    max-inline-size: 49.5%;
+}
+  
